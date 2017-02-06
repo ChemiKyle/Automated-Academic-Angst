@@ -7,4 +7,5 @@ Uncomment the GNOME or email notification sections if you want anything fancier 
 If you're a Linux or Mac nerd and want to run it regularly via cron, just fill in the path variable.
 
 
-TODO: Add SMS notifications.
+TODO: (as in I won't actually get around to it)  
+Add SMS notifications with twilio.
