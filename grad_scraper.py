@@ -44,6 +44,14 @@ def output_writer(title):
 
 output_writer('new_results')
 
+# Check for output file, correct if first run
+try:
+	f = open(path + 'old_results.txt', 'r')
+except:
+	output_writer('old_results')
+	print('This is your first time running the script.\n'
+		'Check the website for now, the next time you run it you will get updates.')
+
 updates = []
 
 with open(path + 'new_results.txt', 'r') as n:
