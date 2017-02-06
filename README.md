@@ -4,7 +4,7 @@ Now you can use all that wasted time to obsessively refresh your email or fiddle
 
 You'll have to define your target schools (partial/city names are ok) and field of study.  
 Uncomment the GNOME or email notification sections if you want anything fancier than a text output.  
-If you're a Linux or Mac nerd and want to run it regularly via cron, just fill in the path variable.
+If you're a Linux or Mac nerd and want to run it regularly via cron, just fill in the path variable. (Be mindful of your rate, don't overload their servers; any quicker than hourly is likely overkill anyway)
 
 
 TODO: (as in I won't actually get around to it)  
