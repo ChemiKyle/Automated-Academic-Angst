@@ -8,4 +8,5 @@ If you're a Linux or Mac nerd and want to run it regularly via cron, just fill i
 
 
 TODO: (as in I won't actually get around to it)  
-Add SMS notifications with twilio.
+Add SMS notifications with twilio.  
+~~Use a separate file for input to circumvent code editing.~~ You'll probably wanna learn python to help with your Ph.D. anyway.
